@@ -21,7 +21,7 @@ If
 then, when printing information about the _connection type_ "sister", just "Bob" must be shown (because he has two 
 _incoming logic relationships_, and "Eleonore" has got just one of them).
 
-See specification here: [Specification document](ProvaFinale2019.pdf) (italian only).
+See specification here: [Specification document](ProvaFinale2019.pdf) (italian only).  
 See the code in `main.c` file.
 
 ## Implementation
