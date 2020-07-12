@@ -1,0 +1,10 @@
+*.1 linguist-detectable=false
+*.2 linguist-detectable=false
+*.3 linguist-detectable=false
+*.4 linguist-detectable=false
+*.5 linguist-detectable=false
+*.Lode linguist-detectable=false
+*.in linguist-detectable=false
+
+
+*.c linguist-detectable=true
