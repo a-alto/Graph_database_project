@@ -72,5 +72,7 @@ However it is not a problem: **evaluation tests were made automatically by a com
 If the evaluation was made by humans, I would probably decided not to write certain kind of code, in order to maintain both semantic and flexibility.
 - **NOTE:** Just `glibc` functions and few others (like `strdup()`) were allowed to be used.
 
-##### Final grade: 30 cum Laude / 30
+---
+
+### Final grade: 30 cum Laude / 30
 ###### Academic Year: 2018/2019
