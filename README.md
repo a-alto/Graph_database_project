@@ -1,5 +1,5 @@
 ![Grade A+](https://img.shields.io/badge/Grade-A%2B-green?color=009F00)
-# Final Examination: Algorithms and Data Structures Project
+# Final Examination: Graph Database - Algorithms and Data Structures Project
 
 This is one of the three project for BSc thesis at **Politecnico di Milano**.  
 The related course for this project is _"Algoritmi e Principi dell'Informatica"_ (i.e. Algorithms and Theoretical Computer Science).
@@ -8,7 +8,7 @@ The related course for this project is _"Algoritmi e Principi dell'Informatica"_
 
 ## Specifications
 
-Aim of this project was to realize a basic social network analyzer in which every _entity_ can be linked to another by one 
+Aim of this project was to realize a basic **graph database** in which every _entity_ can be linked to another by one 
 or more _connection type_. Every time it is asked by a `report` command, a report must show for each _connection type_ 
 the _"hole"_ in which the highest number of _connections_ go into.
 
